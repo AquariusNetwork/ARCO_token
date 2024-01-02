@@ -11,4 +11,7 @@
 * DEX:
 * Website: https://aquariuscoin.com
 * Website: https://arco.si
+* Telegram: https://t.me/AquariusCoin
+* Instagram: https://www.instagram.com/arco.blockchain
+* Facebook: https://www.facebook.com/aquarius.coin
   
