@@ -9,10 +9,10 @@
 * CEX: https://Xeggex.com
 * Wallets: Any web3 wallet with Ethereum Erc20 support
 * DEX: TBD/TBA
-* Website: https://aquariuscoin.com
-* Website: https://arco.si
+* Website: https://aquariuscoin.com (will be updated in feb2024)
+* Website: https://arco.si (coming online in feb2024)
 * Telegram: https://t.me/AquariusCoin
 * Instagram: https://www.instagram.com/arco.blockchain
 * Facebook: https://www.facebook.com/aquarius.coin
 
-* ARCO native coin address: AK5HZe79d4eH6NaqzsieWYnFUcQ22TB4Ey (balance on day of the swap):
+* ARCO native coin swap tx address: AK5HZe79d4eH6NaqzsieWYnFUcQ22TB4Ey (balance on day of the swap):
