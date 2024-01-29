@@ -18,3 +18,6 @@
 * Facebook: https://www.facebook.com/aquarius.coin
 
 * ARCO native coin swap tx address: AK5HZe79d4eH6NaqzsieWYnFUcQ22TB4Ey (balance on day of the swap):
+
+** SWAP info: 
+Xeggex: 2,279,229.05860965 ARCO
