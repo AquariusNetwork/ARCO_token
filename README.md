@@ -4,8 +4,8 @@
 * Token name: ARCO
 * Ticker: ARCO
 * Supply: 42 M
-* Treasury wallet: https://etherscan.io/token/0x9ad4d28cf045deb68377bab20f2b652ae41c9bce?a=0x023055a7646d278311307bc627b09e1a3ef462b5
-* Xeggex swap wallet: https://etherscan.io/token/0x9ad4d28cf045deb68377bab20f2b652ae41c9bce?a=0x20ffe0d07d7f7c2c21a24537538b4cde06c9048a
+* Treasury wallet: https://etherscan.io/address/0x023055a7646d278311307bc627b09e1a3ef462b5
+* Xeggex swap wallet: https://etherscan.io/address/0x20ffe0d07d7f7c2c21a24537538b4cde06c9048a
 * Logo: https://github.com/AquariusNetwork/ARCO-Branding/blob/main/ARCOV1.png
 * Token contract address: https://etherscan.io/token/0x9ad4d28cf045deb68377bab20f2b652ae41c9bce
 * CEX: https://Xeggex.com
