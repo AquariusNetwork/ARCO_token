@@ -12,7 +12,7 @@
 
 # Logo
 * Logo: https://github.com/AquariusNetwork/ARCO-Branding/blob/main/ARCOV1.png
-* 
+  
 # Exchanges
 * CEX: https://Xeggex.com
 * DEX: TBD/TBA
