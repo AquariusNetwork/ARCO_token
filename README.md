@@ -24,6 +24,7 @@
 * Website: https://aquariuscoin.com (will be updated in feb2024)
 * Website: https://arco.si (coming online in feb2024)
 * Telegram: https://t.me/AquariusCoin
+* X: https://twitter.com/aquariusarco
 * Instagram: https://www.instagram.com/arco.blockchain
 * Facebook: https://www.facebook.com/aquarius.coin
 
