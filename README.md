@@ -3,11 +3,11 @@
 * Network: Ethereum
 * Token name: ARCO
 * Ticker: ARCO
-* Supply: 42 M
+* Supply: 42 M (Final supply 2,588,620 ARCO after token burn https://etherscan.io/tx/0x7776965ff078c3cdf333689e29b77cd946a9066efa0ed7010c7d0e416a1a5058 )
 * Token contract address: https://etherscan.io/token/0x9ad4d28cf045deb68377bab20f2b652ae41c9bce
 
 # Token distribution 
-* Treasury wallet: https://etherscan.io/address/0x023055a7646d278311307bc627b09e1a3ef462b5
+
 * Xeggex swap wallet: https://etherscan.io/address/0x20ffe0d07d7f7c2c21a24537538b4cde06c9048a
 
 # Logo
